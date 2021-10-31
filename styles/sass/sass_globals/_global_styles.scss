@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    outline-color: $primary-color-darken;
+
+}
+
+:root {
+    font-size: 62.5%;
+
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 1.6rem;
+    height: 100vh;
+
+}
+
+.required {
+    color: $icon-notification-two;
+
+}
+
+
